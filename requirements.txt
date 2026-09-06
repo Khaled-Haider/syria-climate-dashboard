@@ -1,6 +1,0 @@
-streamlit
-pydeck
-geopandas
-shapely
-fiona
-pyarrow
