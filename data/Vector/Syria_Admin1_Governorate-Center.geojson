@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "Syria_Admin1_Governorate-Center",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"admin1Name":"Damascus"},"geometry":{"type":"Point","coordinates":[36.27671,33.517175]}},
+{"type":"Feature","properties":{"admin1Name":"Aleppo"},"geometry":{"type":"Point","coordinates":[37.15242,36.206013]}},
+{"type":"Feature","properties":{"admin1Name":"Rural Damascus"},"geometry":{"type":"Point","coordinates":[36.404592,33.570572]}},
+{"type":"Feature","properties":{"admin1Name":"Homs"},"geometry":{"type":"Point","coordinates":[36.719731,34.729961]}},
+{"type":"Feature","properties":{"admin1Name":"Hama"},"geometry":{"type":"Point","coordinates":[36.761291,35.133742]}},
+{"type":"Feature","properties":{"admin1Name":"Lattakia"},"geometry":{"type":"Point","coordinates":[35.789569,35.539149]}},
+{"type":"Feature","properties":{"admin1Name":"Idleb"},"geometry":{"type":"Point","coordinates":[36.635276,35.929008]}},
+{"type":"Feature","properties":{"admin1Name":"Al-Hasakeh"},"geometry":{"type":"Point","coordinates":[40.742899,36.505375]}},
+{"type":"Feature","properties":{"admin1Name":"Deir-ez-Zor"},"geometry":{"type":"Point","coordinates":[40.146071,35.331885]}},
+{"type":"Feature","properties":{"admin1Name":"Tartous"},"geometry":{"type":"Point","coordinates":[35.893349,34.886614]}},
+{"type":"Feature","properties":{"admin1Name":"Ar-Raqqa"},"geometry":{"type":"Point","coordinates":[39.006062,35.953075]}},
+{"type":"Feature","properties":{"admin1Name":"Dar'a"},"geometry":{"type":"Point","coordinates":[36.104944,32.624102]}},
+{"type":"Feature","properties":{"admin1Name":"As-Sweida"},"geometry":{"type":"Point","coordinates":[36.567991,32.706811]}},
+{"type":"Feature","properties":{"admin1Name":"Quneitra"},"geometry":{"type":"Point","coordinates":[35.826407,33.124215]}}
+]
+}
