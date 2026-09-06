@@ -1,6 +1,5 @@
 streamlit
-streamlit-folium
-folium
+pydeck
 geopandas
 shapely
 fiona
