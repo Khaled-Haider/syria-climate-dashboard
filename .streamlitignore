@@ -1,6 +1,0 @@
-data/
-*.parquet
-*.tif
-*.tiff
-*.geojson
-*.shp
